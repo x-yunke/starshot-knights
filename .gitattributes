@@ -1,0 +1,3 @@
+# 单文件游戏成品：不做行尾转换，html 也不参与 diff 计算
+* -text
+*.html -diff
